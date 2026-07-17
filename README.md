@@ -12,7 +12,7 @@ Written in Nairobi, Kenya.
 
 | No. | Title | Date | DOI |
 |-----|-------|------|-----|
-| 000 | [The Missing Dimension of Computing](entries/000-the-missing-dimension-of-computing/entry.md) | July 2026 | 10.5281/zenodo.21418592 |
+| 000 | [The Missing Dimension of Computing](entries/000-the-missing-dimension-of-computing/entry.md) | July 2026 |  https://doi.org/10.5281/zenodo.21418591|
 
 ---
 
