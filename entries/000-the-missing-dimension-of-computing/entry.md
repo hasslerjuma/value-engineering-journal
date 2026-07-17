@@ -22,7 +22,8 @@ This entry introduces **Value Engineering** as a new, foundational branch of com
 
 ---
 
-**Suggested citation**
+**DOI:** [10.5281/zenodo.21418591] https://doi.org/10.5281/zenodo.21418591
+** citation**
 
 Juma, H., & Njoroge, J. (2026). The missing dimension of computing: Why computers understand data but not value. *Value Engineering Journal*, 1(1), Entry No. 000.
 
