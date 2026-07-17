@@ -5,7 +5,7 @@
 
 ---
 
-📄 [Download PDF](entry.pdf)
+📄 [Download PDF](../../raw/main/entries/000-the-missing-dimension-of-computing/entry.pdf)
 
 ---
 
